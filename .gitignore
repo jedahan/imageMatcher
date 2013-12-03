@@ -11,3 +11,19 @@
 *.lai
 *.la
 *.a
+
+# Finder Thumbnails
+.DS_Store
+
+# Xcode build folders
+DerivedData/
+build/
+
+# Xcode source control files
+*.xccheckout
+
+# Xcode user data
+xcuserdata
+
+# Compiled app
+*.app
